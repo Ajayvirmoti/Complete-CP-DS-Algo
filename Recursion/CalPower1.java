@@ -1,6 +1,6 @@
 package Recursion;
 
-public class CalPower {
+public class CalPower1{
     public static int calPower(int x,int n){
         if(x==0 ){
             return 0;
