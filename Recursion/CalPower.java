@@ -13,7 +13,7 @@ public class CalPower {
         return xPown;
     }
     public static void main(String[] args) {
-        int x=2, n=10;
+        int x=2, n=9;
         int ans = calPower(x,n);
         System.out.println(ans);
     }
